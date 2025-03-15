@@ -1,0 +1,7 @@
+pynput==1.7.6
+pygame==2.5.2
+psutil==5.9.5
+customtkinter==5.2.1
+pystray==0.19.4
+pillow==9.5.0
+pyautogui==0.9.54 
