@@ -13,6 +13,7 @@ Um aplicativo para Windows que monitora a inatividade do sistema e desliga o com
 - Atalho global (CTRL+SHIFT+A) para mostrar o aplicativo
 - Aviso visual antes do desligamento
 - Configurações salvas automaticamente
+- Sistema de detecção otimizado para baixo uso de recursos
 
 ## Requisitos
 
